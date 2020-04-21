@@ -1,0 +1,9 @@
+""""Welcome to the Packet Sniffer Tool""""
+---------------------------------------------------------------------------------------------------------------------------------------------
+This tool works on various environments such as Windows, Linux and MacOS
+
+The main function of this tool is to sniff the "http" packets from the http enabled websites and then the user will be able to see the user entered credentials as "http" sends packets in clear text without any security features. The user can also use it along with sslstrip in MITM attack and sniff the whole traffic.
+
+After installing the tool, the user has to just run the program and they will be able to sniff the "HTTP Requests".
+
+Ex: python packet_sniffer.py
